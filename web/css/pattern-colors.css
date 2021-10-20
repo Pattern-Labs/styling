@@ -12,17 +12,13 @@ Proprietary and confidential */
     --pattern-dark: #3D3D3D;
     --pattern-darker: #373737;
     --pattern-darkest:#2A2A2A;
-    /* blues */
-    --pattern-brighter-blue: #3480F9;
-    --pattern-bright-blue: #336FCF;
-    --pattern-blue: #335FA7;
-    --pattern-dark-blue:#314F7F;
-    --pattern-darker-blue: #2D3C57;
+
     /* colors */
-    --pattern-red: #C84B57;
-    --pattern-orange: #C8694C;
-    --pattern-yellow: #D5B676;
-    --pattern-green: #A3D576;
-    --pattern-purple: #D576C4;
+    --pattern-blue: #3581FA;
+    --pattern-red: #FB6A78;
+    --pattern-orange: #FA8C6B;
+    --pattern-yellow: #FAD17F;
+    --pattern-green: #BEFB89;
+    --pattern-purple: #FB98E9;
 }
 
