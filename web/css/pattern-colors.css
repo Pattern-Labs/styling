@@ -1,0 +1,28 @@
+/* Copyright (C) 2020 Pattern Labs, Inc - All Rights Reserved
+Unauthorized copying of this file, via any medium is strictly prohibited
+Proprietary and confidential */
+
+:root {
+    /* lights */
+    --pattern-lightest: #EFEFEF;
+    --pattern-lighter: #E2E2E2;
+    --pattern-light: #D5D5D5; 
+    /* darks */
+    --pattern-darkish: #474747;
+    --pattern-dark: #3D3D3D;
+    --pattern-darker: #333333;
+    --pattern-darkest:#2A2A2A;
+    /* blues */
+    --pattern-brighter-blue: #3480F9;
+    --pattern-bright-blue: #336FCF;
+    --pattern-blue: #335FA7;
+    --pattern-dark-blue:#314F7F;
+    --pattern-darker-blue: #2D3C57;
+    /* colors */
+    --pattern-red: #C84B57;
+    --pattern-orange: #C8694C;
+    --pattern-yellow: #D5B676;
+    --pattern-green: #A3D576;
+    --pattern-purple: #D576C4;
+}
+
