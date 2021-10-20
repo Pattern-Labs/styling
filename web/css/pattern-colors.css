@@ -4,13 +4,13 @@ Proprietary and confidential */
 
 :root {
     /* lights */
-    --pattern-lightest: #EFEFEF;
-    --pattern-lighter: #E2E2E2;
+    --pattern-lightest: #999999;
+    --pattern-lighter: #B7B7B7;
     --pattern-light: #D5D5D5; 
     /* darks */
-    --pattern-darkish: #474747;
+    --pattern-darkish: #434343;
     --pattern-dark: #3D3D3D;
-    --pattern-darker: #333333;
+    --pattern-darker: #373737;
     --pattern-darkest:#2A2A2A;
     /* blues */
     --pattern-brighter-blue: #3480F9;
