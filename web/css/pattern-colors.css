@@ -4,9 +4,9 @@ Proprietary and confidential */
 
 :root {
     /* lights */
-    --pattern-lightest: #999999;
+    --pattern-light: #999999;
     --pattern-lighter: #B7B7B7;
-    --pattern-light: #D5D5D5; 
+    --pattern-lightest: #D5D5D5; 
     /* darks */
     --pattern-darkish: #434343;
     --pattern-dark: #3D3D3D;
