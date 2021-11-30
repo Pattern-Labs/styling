@@ -13,7 +13,7 @@ body {
 button {
     color: var(--pattern-darkest);
     font-weight: bold;
-    background-color: var(--pattern-lightish);
+    background-color: var(--pattern-light);
     display: inline-block;
     padding: 0.75em 1.5em;
     border: none;
@@ -68,7 +68,7 @@ button.purple {
 
 button.light {
     color: var(--pattern-darkest);
-    background-color: var(--pattern-lightish);
+    background-color: var(--pattern-light);;
 }
 
 button.dark {
@@ -125,9 +125,9 @@ input, textarea {
     padding: .5em;
     border-radius: .5em;
     margin: .5em 0;
-    border: 2px solid var(--pattern-lightish);
+    border: 2px solid var(--pattern-light);
     background-color: transparent;
-    color: var(--pattern-lightish);
+    color: var(--pattern-light);
 }
 
 textarea {
@@ -137,7 +137,7 @@ textarea {
 
 input::placeholder {
     /* Chrome, Firefox, Opera, Safari 10.1+ */
-    color: var(--pattern-lightish);
+    color: var(--pattern-light);
     opacity: .5;
     /* Firefox */
 }
